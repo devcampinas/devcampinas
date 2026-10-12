@@ -22,20 +22,19 @@ Do primeiro esboço ao site no ar com domínio, pagamento e automação: **front
 
 - **SaaS e ferramentas próprias** com cobrança recorrente por Pix e cartão (Mercado Pago), login sem senha e deploy contínuo.
 - **Sites e sistemas para negócios locais**: lojas virtuais, PDV/caixa, agendamento, gestão e páginas de alta conversão.
-- **Automação com IA**: agentes no WhatsApp, publicação automática em redes sociais, assistentes virtuais e fluxos com n8n.
+- **Automação com IA**: agentes no WhatsApp, publicação automática em redes sociais, assistentes virtuais.
 
 ## Projetos em destaque
 
 | Projeto | O que é |
 |---|---|
-| [**TIO BOY LABEL**](https://tioboy.n8nbalao.com) | SaaS para vendedores da Shopee: junta a planilha de pedidos com as etiquetas ZPL, confere cada etiqueta pelo código de rastreio e imprime com o produto ao lado. Pix com QR na própria página, login por e-mail ou Google, publicação automática a cada merge. |
-| **Label do Bily** | Etiquetas ZPL com o nome do produto desenhado na própria etiqueta + agente local de impressão direta na Zebra. |
-| [**n8nBalão**](https://ecommerce.n8nbalao.com) | Automação de atendimento no WhatsApp com IA, para várias empresas no mesmo sistema. |
-| [**Balãozinho**](https://robozin.n8nbalao.com) | Assistente virtual animado, com painel de configuração. |
-| **Postador** | Automação de publicações e vendas no Facebook e Marketplace. |
-| **easyLaudo** | IA de apoio a laudos de radiologia. |
+| [**Tio Boy**](https://tioboy.n8nbalao.com) | SaaS para vendedores da Shopee: junta a planilha de pedidos com as etiquetas ZPL, confere cada etiqueta pelo código de rastreio e imprime com o produto ao lado. Pix com QR na própria página, login por e-mail ou Google, publicação automática a cada merge. |
+| [**Automação de atendimento**](https://ecommerce.n8nbalao.com) | Automação de atendimento no WhatsApp com IA, para várias empresas no mesmo sistema. |
+| [**Robozinho com i.a. php Puro**](https://robozin.n8nbalao.com) | Assistente virtual animado, com painel de configuração. |
+| **Auto Postador Fcbk e Mktplc** | Automação de publicações e vendas no Facebook e Marketplace. |
+| **EasyRadiolog** | IA de apoio a laudos de radiologia. |
 | **Rifa online** | Sistema de rifas com pagamento Pix (BR Code) e painel de pedidos. |
-| **Umbrella Collateral Engine** | Motor de cálculo de colateral e LTV para crédito (Python, Docker). |
+| **Collateral Engine** | Motor de cálculo de colateral e LTV para crédito (Python, Docker). |
 
 ## Sites no ar
 
@@ -45,11 +44,11 @@ Do primeiro esboço ao site no ar com domínio, pagamento e automação: **front
 [Ecolimp Campinas](https://ecolimpcampinas.com) ·
 [Espetaria Los Brothers](https://espetarialosbrothers.com) ·
 [DM Jardinagem](https://dmjardinagem.n8nbalao.com) ·
-[Hero Delivery](https://hero.n8nbalao.com) ·
+[Hero Campinas Delivery](https://hero.n8nbalao.com) ·
 [Autoescola: gestão de aulas](https://autoescola.n8nbalao.com) ·
 [Pet shop: banho, tosa e e-commerce](https://petshop.n8nbalao.com) ·
-[Adega](https://adega.n8nbalao.com) ·
-[Balão da Informática](https://n8nbalao.com)
+[Delivery Adega](https://adega.n8nbalao.com) ·
+[Portifólio](https://n8nbalao.com)
 
 ## Stack
 
