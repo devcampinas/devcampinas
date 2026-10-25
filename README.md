@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="assets/herrera.jpg" width="160" alt="Hector Herrera" style="border-radius:50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="marca/devcampinas-logo-fundo-escuro.png">
+    <img src="marca/devcampinas-logo.png" width="280" alt="Dev Campinas · Desenvolvimento de software · Campinas">
+  </picture>
 </p>
 
-<h1 align="center">Herrera Dev</h1>
-
 <p align="center">
-  <b>Hector Herrera</b> · desenvolvedor full-stack e automação com IA · <b>DevCampinas</b><br>
+  <b>Hector Herrera</b> · desenvolvedor full-stack e automação com IA · <b>Dev Campinas</b><br>
   Sites, sistemas, SaaS e automações que colocam pequenos negócios para vender e operar no digital.
 </p>
 
